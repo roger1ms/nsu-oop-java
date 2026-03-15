@@ -1,0 +1,19 @@
+# Compiled files
+*.class
+*.jar
+*.war
+
+# Build directories
+out/
+build/
+target/
+
+# IDE settings
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# System files
+.DS_Store
+Thumbs.db
