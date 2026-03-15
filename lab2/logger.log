@@ -1,0 +1,738 @@
+мар. 15, 2026 2:45:10 PM lab2.Main main
+INFO: Calculator started
+мар. 15, 2026 2:45:10 PM lab2.Main main
+INFO: Arguments count: 1
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory <init>
+FINE: Initializing OperationFactory...
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory <init>
+INFO: Loaded 9 commands
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: context and factory initialized
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Command: PUSH
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Requesting operation: PUSH
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Loading class: lab2.Operations.PushOperation
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Operation created successfully: PUSH
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Operation created: PUSH
+мар. 15, 2026 2:45:10 PM lab2.Main main
+INFO: Operation executed: PUSH
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Stack state: [3.0]
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Command: PUSH
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Requesting operation: PUSH
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Loading class: lab2.Operations.PushOperation
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Operation created successfully: PUSH
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Operation created: PUSH
+мар. 15, 2026 2:45:10 PM lab2.Main main
+INFO: Operation executed: PUSH
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Stack state: [3.0, 7.0]
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Command: +
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Requesting operation: +
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Loading class: lab2.Operations.PlusOperation
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Operation created successfully: +
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Operation created: +
+мар. 15, 2026 2:45:10 PM lab2.Main main
+INFO: Operation executed: +
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Stack state: [10.0]
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Command: PUSH
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Requesting operation: PUSH
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Loading class: lab2.Operations.PushOperation
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Operation created successfully: PUSH
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Operation created: PUSH
+мар. 15, 2026 2:45:10 PM lab2.Main main
+INFO: Operation executed: PUSH
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Stack state: [10.0, 5.0]
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Command: *
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Requesting operation: *
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Loading class: lab2.Operations.MultiplyOperation
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Operation created successfully: *
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Operation created: *
+мар. 15, 2026 2:45:10 PM lab2.Main main
+INFO: Operation executed: *
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Stack state: [50.0]
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Command: PUSH
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Requesting operation: PUSH
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Loading class: lab2.Operations.PushOperation
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Operation created successfully: PUSH
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Operation created: PUSH
+мар. 15, 2026 2:45:10 PM lab2.Main main
+INFO: Operation executed: PUSH
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Stack state: [50.0, 106.0]
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Command: +
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Requesting operation: +
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Loading class: lab2.Operations.PlusOperation
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Operation created successfully: +
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Operation created: +
+мар. 15, 2026 2:45:10 PM lab2.Main main
+INFO: Operation executed: +
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Stack state: [156.0]
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Command: PUSH
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Requesting operation: PUSH
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Loading class: lab2.Operations.PushOperation
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Operation created successfully: PUSH
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Operation created: PUSH
+мар. 15, 2026 2:45:10 PM lab2.Main main
+INFO: Operation executed: PUSH
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Stack state: [156.0, 4.0]
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Command: +
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Requesting operation: +
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Loading class: lab2.Operations.PlusOperation
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Operation created successfully: +
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Operation created: +
+мар. 15, 2026 2:45:10 PM lab2.Main main
+INFO: Operation executed: +
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Stack state: [160.0]
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Command: PUSH
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Requesting operation: PUSH
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Loading class: lab2.Operations.PushOperation
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Operation created successfully: PUSH
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Operation created: PUSH
+мар. 15, 2026 2:45:10 PM lab2.Main main
+INFO: Operation executed: PUSH
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Stack state: [160.0, 320.0]
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Command: /
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Requesting operation: /
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Loading class: lab2.Operations.DivideOperation
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Operation created successfully: /
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Operation created: /
+мар. 15, 2026 2:45:10 PM lab2.Main main
+INFO: Operation executed: /
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Stack state: [2.0]
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Command: PRINT
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Requesting operation: PRINT
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Loading class: lab2.Operations.PrintOperation
+мар. 15, 2026 2:45:10 PM lab2.OperationFactory getOperation
+FINE: Operation created successfully: PRINT
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Operation created: PRINT
+мар. 15, 2026 2:45:10 PM lab2.Main main
+INFO: Operation executed: PRINT
+мар. 15, 2026 2:45:10 PM lab2.Main main
+FINE: Stack state: [2.0]
+мар. 15, 2026 2:45:10 PM lab2.Main main
+INFO: Calculator finished
+мар. 15, 2026 2:45:10 PM lab2.Main main
+INFO: Total lines processed: 12
+мар. 15, 2026 2:45:53 PM lab2.Main main
+INFO: Calculator started
+мар. 15, 2026 2:45:53 PM lab2.Main main
+INFO: Arguments count: 1
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory <init>
+FINE: Initializing OperationFactory...
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory <init>
+INFO: Loaded 9 commands
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: context and factory initialized
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Command: PUSH
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Requesting operation: PUSH
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Loading class: lab2.Operations.PushOperation
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Operation created successfully: PUSH
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Operation created: PUSH
+мар. 15, 2026 2:45:53 PM lab2.Main main
+INFO: Operation executed: PUSH
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Stack state: [3.0]
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Command: PUSH
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Requesting operation: PUSH
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Loading class: lab2.Operations.PushOperation
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Operation created successfully: PUSH
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Operation created: PUSH
+мар. 15, 2026 2:45:53 PM lab2.Main main
+INFO: Operation executed: PUSH
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Stack state: [3.0, 7.0]
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Command: +
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Requesting operation: +
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Loading class: lab2.Operations.PlusOperation
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Operation created successfully: +
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Operation created: +
+мар. 15, 2026 2:45:53 PM lab2.Main main
+INFO: Operation executed: +
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Stack state: [10.0]
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Command: PUSH
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Requesting operation: PUSH
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Loading class: lab2.Operations.PushOperation
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Operation created successfully: PUSH
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Operation created: PUSH
+мар. 15, 2026 2:45:53 PM lab2.Main main
+INFO: Operation executed: PUSH
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Stack state: [10.0, 5.0]
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Command: *
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Requesting operation: *
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Loading class: lab2.Operations.MultiplyOperation
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Operation created successfully: *
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Operation created: *
+мар. 15, 2026 2:45:53 PM lab2.Main main
+INFO: Operation executed: *
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Stack state: [50.0]
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Command: PUSH
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Requesting operation: PUSH
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Loading class: lab2.Operations.PushOperation
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Operation created successfully: PUSH
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Operation created: PUSH
+мар. 15, 2026 2:45:53 PM lab2.Main main
+INFO: Operation executed: PUSH
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Stack state: [50.0, 106.0]
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Command: +
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Requesting operation: +
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Loading class: lab2.Operations.PlusOperation
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Operation created successfully: +
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Operation created: +
+мар. 15, 2026 2:45:53 PM lab2.Main main
+INFO: Operation executed: +
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Stack state: [156.0]
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Command: PUSH
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Requesting operation: PUSH
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Loading class: lab2.Operations.PushOperation
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Operation created successfully: PUSH
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Operation created: PUSH
+мар. 15, 2026 2:45:53 PM lab2.Main main
+INFO: Operation executed: PUSH
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Stack state: [156.0, 4.0]
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Command: +
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Requesting operation: +
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Loading class: lab2.Operations.PlusOperation
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Operation created successfully: +
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Operation created: +
+мар. 15, 2026 2:45:53 PM lab2.Main main
+INFO: Operation executed: +
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Stack state: [160.0]
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Command: PUSH
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Requesting operation: PUSH
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Loading class: lab2.Operations.PushOperation
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Operation created successfully: PUSH
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Operation created: PUSH
+мар. 15, 2026 2:45:53 PM lab2.Main main
+INFO: Operation executed: PUSH
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Stack state: [160.0, 320.0]
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Command: /
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Requesting operation: /
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Loading class: lab2.Operations.DivideOperation
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Operation created successfully: /
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Operation created: /
+мар. 15, 2026 2:45:53 PM lab2.Main main
+INFO: Operation executed: /
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Stack state: [2.0]
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Command: PRINT
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Requesting operation: PRINT
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Loading class: lab2.Operations.PrintOperation
+мар. 15, 2026 2:45:53 PM lab2.OperationFactory getOperation
+FINE: Operation created successfully: PRINT
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Operation created: PRINT
+мар. 15, 2026 2:45:53 PM lab2.Main main
+INFO: Operation executed: PRINT
+мар. 15, 2026 2:45:53 PM lab2.Main main
+FINE: Stack state: [2.0]
+мар. 15, 2026 2:45:53 PM lab2.Main main
+INFO: Calculator finished
+мар. 15, 2026 2:45:53 PM lab2.Main main
+INFO: Total lines processed: 12
+мар. 15, 2026 3:47:10 PM stackCalculator.Main main
+INFO: Calculator started
+мар. 15, 2026 3:47:10 PM stackCalculator.Main main
+INFO: Arguments count: 0
+мар. 15, 2026 3:47:10 PM stackCalculator.OperationFactory <init>
+FINE: Initializing OperationFactory...
+мар. 15, 2026 3:47:10 PM stackCalculator.OperationFactory <init>
+INFO: Loaded 9 commands
+мар. 15, 2026 3:47:10 PM stackCalculator.Main main
+FINE: context and factory initialized
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+INFO: Calculator started
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+INFO: Arguments count: 1
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory <init>
+FINE: Initializing OperationFactory...
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory <init>
+INFO: Loaded 9 commands
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: context and factory initialized
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Command: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Requesting operation: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Loading class: stackCalculator.Operations.PushOperation
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Operation created successfully: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Operation created: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+INFO: Operation executed: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Stack state: [3.0]
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Command: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Requesting operation: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Loading class: stackCalculator.Operations.PushOperation
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Operation created successfully: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Operation created: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+INFO: Operation executed: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Stack state: [3.0, 7.0]
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Command: +
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Requesting operation: +
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Loading class: stackCalculator.Operations.PlusOperation
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Operation created successfully: +
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Operation created: +
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+INFO: Operation executed: +
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Stack state: [10.0]
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Command: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Requesting operation: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Loading class: stackCalculator.Operations.PushOperation
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Operation created successfully: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Operation created: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+INFO: Operation executed: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Stack state: [10.0, 5.0]
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Command: *
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Requesting operation: *
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Loading class: stackCalculator.Operations.MultiplyOperation
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Operation created successfully: *
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Operation created: *
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+INFO: Operation executed: *
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Stack state: [50.0]
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Command: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Requesting operation: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Loading class: stackCalculator.Operations.PushOperation
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Operation created successfully: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Operation created: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+INFO: Operation executed: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Stack state: [50.0, 106.0]
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Command: +
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Requesting operation: +
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Loading class: stackCalculator.Operations.PlusOperation
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Operation created successfully: +
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Operation created: +
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+INFO: Operation executed: +
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Stack state: [156.0]
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Command: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Requesting operation: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Loading class: stackCalculator.Operations.PushOperation
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Operation created successfully: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Operation created: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+INFO: Operation executed: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Stack state: [156.0, 4.0]
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Command: +
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Requesting operation: +
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Loading class: stackCalculator.Operations.PlusOperation
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Operation created successfully: +
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Operation created: +
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+INFO: Operation executed: +
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Stack state: [160.0]
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Command: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Requesting operation: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Loading class: stackCalculator.Operations.PushOperation
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Operation created successfully: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Operation created: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+INFO: Operation executed: PUSH
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Stack state: [160.0, 320.0]
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Command: /
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Requesting operation: /
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Loading class: stackCalculator.Operations.DivideOperation
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Operation created successfully: /
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Operation created: /
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+INFO: Operation executed: /
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Stack state: [2.0]
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Command: PRINT
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Requesting operation: PRINT
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Loading class: stackCalculator.Operations.PrintOperation
+мар. 15, 2026 3:48:13 PM stackCalculator.OperationFactory getOperation
+FINE: Operation created successfully: PRINT
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Operation created: PRINT
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+INFO: Operation executed: PRINT
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+FINE: Stack state: [2.0]
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+INFO: Calculator finished
+мар. 15, 2026 3:48:13 PM stackCalculator.Main main
+INFO: Total lines processed: 12
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+INFO: Calculator started
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+INFO: Arguments count: 1
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory <init>
+FINE: Initializing OperationFactory...
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory <init>
+INFO: Loaded 9 commands
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: context and factory initialized
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Command: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Requesting operation: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Loading class: stackCalculator.Operations.PushOperation
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Operation created successfully: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Operation created: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+INFO: Operation executed: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Stack state: [3.0]
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Command: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Requesting operation: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Loading class: stackCalculator.Operations.PushOperation
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Operation created successfully: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Operation created: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+INFO: Operation executed: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Stack state: [3.0, 7.0]
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Command: +
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Requesting operation: +
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Loading class: stackCalculator.Operations.PlusOperation
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Operation created successfully: +
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Operation created: +
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+INFO: Operation executed: +
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Stack state: [10.0]
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Command: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Requesting operation: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Loading class: stackCalculator.Operations.PushOperation
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Operation created successfully: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Operation created: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+INFO: Operation executed: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Stack state: [10.0, 5.0]
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Command: *
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Requesting operation: *
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Loading class: stackCalculator.Operations.MultiplyOperation
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Operation created successfully: *
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Operation created: *
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+INFO: Operation executed: *
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Stack state: [50.0]
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Command: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Requesting operation: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Loading class: stackCalculator.Operations.PushOperation
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Operation created successfully: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Operation created: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+INFO: Operation executed: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Stack state: [50.0, 106.0]
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Command: +
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Requesting operation: +
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Loading class: stackCalculator.Operations.PlusOperation
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Operation created successfully: +
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Operation created: +
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+INFO: Operation executed: +
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Stack state: [156.0]
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Command: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Requesting operation: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Loading class: stackCalculator.Operations.PushOperation
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Operation created successfully: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Operation created: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+INFO: Operation executed: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Stack state: [156.0, 4.0]
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Command: +
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Requesting operation: +
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Loading class: stackCalculator.Operations.PlusOperation
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Operation created successfully: +
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Operation created: +
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+INFO: Operation executed: +
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Stack state: [160.0]
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Command: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Requesting operation: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Loading class: stackCalculator.Operations.PushOperation
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Operation created successfully: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Operation created: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+INFO: Operation executed: PUSH
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Stack state: [160.0, 320.0]
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Command: /
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Requesting operation: /
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Loading class: stackCalculator.Operations.DivideOperation
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Operation created successfully: /
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Operation created: /
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+INFO: Operation executed: /
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Stack state: [2.0]
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Command: PRINT
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Requesting operation: PRINT
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Loading class: stackCalculator.Operations.PrintOperation
+мар. 15, 2026 3:48:27 PM stackCalculator.OperationFactory getOperation
+FINE: Operation created successfully: PRINT
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Operation created: PRINT
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+INFO: Operation executed: PRINT
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+FINE: Stack state: [2.0]
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+INFO: Calculator finished
+мар. 15, 2026 3:48:27 PM stackCalculator.Main main
+INFO: Total lines processed: 12
